@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kolkata-shohore/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Kolkata Shohore](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Kolkata Shohore](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ধোঁয়াশা ঘেরা এই পাগল করা রাতে
+> অচেনা এক ঘোর লেগেছে দু'চোখ পাতে
+> নিঃশ্বাসে মিশে আছে মাতাল করা সুর
+> তোমাকে খুঁজে বেড়াই আমি বহুদূর
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
