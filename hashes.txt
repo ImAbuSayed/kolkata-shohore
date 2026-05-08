@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kolkata Shohore
+
+This log tracks the cryptographic history and versioning for the song **Kolkata Shohore** (kolkata-shohore).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T15:59:30.558827 | `v1` | `474ca562cc7d4703cb7f41e0ae36f2f165ecb07ae825aeb7dbfd3f77b8c9b916` | `8ac5f5fcc20569013979678199203c1df85e92fd2cfe44c28cac76681e33c965` | `2026-05-08_kolkata-shohore-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
